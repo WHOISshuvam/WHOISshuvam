@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoisshuvam&label=Profile%20views&color=0e75b6&style=flat" alt="whoisshuvam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whoisshuvam" alt="whoisshuvam" /></a> </p>
-
-[![Shuvam's github stats](https://github-readme-stats.vercel.app/api?username=whoisshuvam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Rishit-dagli)
+[![Shuvam's github stats](https://github-readme-stats.vercel.app/api?username=whoisshuvam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)]
 
 <p align="left"> <a href="https://twitter.com/whoisshuvam" target="blank"><img src="https://img.shields.io/twitter/follow/whoisshuvam?logo=twitter&style=for-the-badge" alt="whoisshuvam" /></a> </p>
 

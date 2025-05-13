@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://whoisshuvam.medium.com](https://whoisshuvam.medium.com)
 
-- 📫 How to reach me **adhikarishuvam450@gmail.com**
+- 📫 How to reach me **https://twitter.com/whoisshuvam**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
